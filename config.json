@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authfave",
+        "uuid": 32385957,
+        "checksum": "sdgizj"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
